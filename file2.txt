@@ -1,1 +1,2 @@
 this is file 2
+file 2 modified: added line 2
